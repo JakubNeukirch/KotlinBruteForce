@@ -1,5 +1,6 @@
 # KotlinBruteForce
 Simple library which provides brute-force tools.
+[Link to jar](https://sourceforge.net/projects/kotlin-bruteforce/)
 
 ## Simple Brute-Forcing
 To simply brute-force through all chars in specified charset:
